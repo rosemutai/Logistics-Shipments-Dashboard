@@ -1,5 +1,7 @@
 # Logistics Performance & Cost Optimization Dashboard
 
+![Power BI Dashboard](https://github.com/rosemutai/Logistics-Shipments-Dashboard/blob/main/images/dashboard.png)
+
 ## 1. Business Problem
 Logistics companies struggle to balance:
 - Delivery speed
